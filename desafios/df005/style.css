@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {background-image:linear-gradient(to right, #3EB595, #728188)}
+h1 {
+    background-color:#696969;
+    color:#FFF447 ;
+}
+h2 {background-color: #728188;
+    color:#ffffff;
+}
+p {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+#FFF447
